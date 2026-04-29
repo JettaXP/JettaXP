@@ -8,7 +8,6 @@
 <p>
   <img src="https://img.shields.io/badge/OS-EndeavourOS-6D28D9?style=for-the-badge&logo=arch-linux&logoColor=white" alt="EndeavourOS" />
   <img src="https://img.shields.io/badge/Shell-fish-1F2937?style=for-the-badge&logo=fishshell&logoColor=white" alt="fish shell" />
-  <img src="https://img.shields.io/badge/Vibe-chaotic%20tech%20guy-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Vibe" />
 </p>
 
 </div>
