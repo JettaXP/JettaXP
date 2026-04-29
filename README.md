@@ -106,9 +106,7 @@ likes:
 </td>
 <td width="50%" valign="top">
 
-### personality_pack
-- chaotic good  
-- aesthetically unstable  
+### personality_pack  
 - dark mode believer  
 - motivated by cool visuals  
 - powered by late-night ideas
@@ -132,6 +130,12 @@ likes:
 
 <p align="center">
   <a href="https://github.com/JettaXP"><img src="https://img.shields.io/badge/GitHub-JettaXP-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://jettax.xyz"><img src="https://img.shields.io/badge/Website-jettax.xyz-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://steamcommunity.com/id/jettaxp/"><img src="https://img.shields.io/badge/Steam-jettaxp-0B1B2B?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
+  <a href="https://t.me/jettaxp"><img src="https://img.shields.io/badge/Telegram-@jettaxp-1D9BF0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/Discord-jettax03-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
-//сайт не работает потому что я говноед
+
+<p align="center">
+  discord: <b>jettax03</b>
+</p>
+//сайт не работает потому что я говноеда
