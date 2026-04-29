@@ -5,8 +5,26 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=A78BFA&center=true&vCenter=true&width=980&lines=%D0%B3%D0%BE%D0%B2%D0%BD%D0%BE+%D0%B2%D0%B0%D0%B9%D0%B1%D0%BA%D0%BE%D0%B4%D0%B5%D1%80+%D1%81+EndeavourOS;dark+mode+believer;linux+ricing+%2B+late+night+tweaking;google+tech+enjoyer;%D1%82%D0%B0%D0%BF%D0%B0%D1%8E+%D1%85%D0%BE%D0%BC%D1%8F%D0%BA%D0%B0%E2%9C%85;%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E+%D1%81%D0%B8%D0%BA%D1%81+%D1%81%D0%B5%D0%B2%D0%B5%D0%BD%E2%9C%85" alt="Typing intro" />
 <p>
-  <img src="https://img.shields.io/badge/OS-EndeavourOS-6D28D9?style=for-the-badge&logo=arch-linux&logoColor=white" alt="EndeavourOS" />
-  <img src="https://img.shields.io/badge/Shell-fish-1F2937?style=for-the-badge&logo=fishshell&logoColor=white" alt="fish shell" />
+<p align="center">
+  <a href="https://endeavouros.com/">
+    <img src="https://img.shields.io/badge/OS-EndeavourOS-6D28D9?style=for-the-badge&logo=arch-linux&logoColor=white" alt="EndeavourOS" />
+  </a>
+  <a href="https://fishshell.com/">
+    <img src="https://img.shields.io/badge/Shell-fish-1F2937?style=for-the-badge&logo=fishshell&logoColor=white" alt="fish shell" />
+  </a>
+  <a href="https://github.com/hyprwm/Hyprland">
+    <img src="https://img.shields.io/badge/WM-Hyprland-00AEEF?style=for-the-badge&logo=wayland&logoColor=white" alt="Hyprland" />
+  </a>
+  <a href="https://wayland.freedesktop.org/">
+    <img src="https://img.shields.io/badge/Display-Wayland-111827?style=for-the-badge&logo=wayland&logoColor=white" alt="Wayland" />
+  </a>
+  <a href="https://github.com/endeavouros-team/EndeavourOS-ISO">
+    <img src="https://img.shields.io/badge/Repo-EndeavourOS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="EndeavourOS repo" />
+  </a>
+  <a href="https://github.com/hyprwm/Hyprland">
+    <img src="https://img.shields.io/badge/Repo-Hyprland-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Hyprland repo" />
+  </a>
+</p>
 </p>
 
 </div>
