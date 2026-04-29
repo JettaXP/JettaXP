@@ -14,9 +14,7 @@
   </a>
   <a href="https://github.com/hyprwm/Hyprland">
     <img src="https://img.shields.io/badge/WM-Hyprland-00AEEF?style=for-the-badge&logo=wayland&logoColor=white" alt="Hyprland" />
-  </a>
-  <a href="https://github.com/hyprwm/Hyprland">
-    <img src="https://img.shields.io/badge/Wayland-Hyprland%20Repo-111827?style=for-the-badge&logo=wayland&logoColor=white" alt="Wayland / Hyprland repo" />
+  <a
   </a>
   <a href="https://github.com/end-4/dots-hyprland">
     <img src="https://img.shields.io/badge/Rice-end--4-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="end-4" />
