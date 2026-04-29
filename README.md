@@ -134,3 +134,4 @@ likes:
   <a href="https://github.com/JettaXP"><img src="https://img.shields.io/badge/GitHub-JettaXP-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://jettax.xyz"><img src="https://img.shields.io/badge/Website-jettax.xyz-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </p>
+//сайт не работает потому что я говноед
