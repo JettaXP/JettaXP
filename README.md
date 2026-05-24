@@ -111,5 +111,3 @@ energy:
 <p align="center">
   discord: <b>jettax03</b>
 </p>
-
-//сайт не работает потому что я говноед
