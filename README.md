@@ -37,6 +37,8 @@ os: EndeavourOS
 shell: fish
 location: Dnipro, Ukraine
 likes:
+  - тапать хомяка
+  - забирать награды с листинга
   - google tech
   - linux ricing
   - cool ui
