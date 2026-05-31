@@ -95,6 +95,8 @@ energy:
 
 <div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=JettaXP&theme=midnight-purple&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jettaxp&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jettaxp&theme=midnight-purple&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
