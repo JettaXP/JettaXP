@@ -94,9 +94,8 @@ energy:
 ## github_stuff
 
 <div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=JettaXP&theme=midnight-purple&hide_border=true" alt="GitHub streak" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jettaxp&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jettaxp&theme=midnight-purple&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=JettaXP&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jettaxp&theme=vision_friendly_dark" height="165"/>
 </div>
 
 <div align="center">
