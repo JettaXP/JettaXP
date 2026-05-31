@@ -93,12 +93,12 @@ energy:
 
 ## github_stuff
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JettaXP&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jettaxp&theme=vision_friendly_dark" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=JettaXP&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&ring=8b5cf6&fire=c084fc&currStreakLabel=c084fc&sideLabels=c084fc&currStreakNum=f5d0fe&sideNums=f5d0fe&dates=8b5cf6" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jettaxp&theme=2077" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jettaxp&theme=vision_friendly_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jettaxp&theme=2077"/>
 </div>
 
 <div align="center">
