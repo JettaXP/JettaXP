@@ -92,10 +92,13 @@ energy:
 </p>
 
 ## github_stuff
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=JettaXP&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jettaxp&theme=vision_friendly_dark" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jettaxp&theme=vision_friendly_dark"/>
 </div>
 
 <div align="center">
