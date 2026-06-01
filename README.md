@@ -50,7 +50,7 @@ energy:
   - breaking things and fixing them later
 ```
 
-## lore
+## cat /usr/share/okakos/trash
 
 - сижу на EndeavourOS и ковыряюсь в говне✅
 - люблю терминал✅
@@ -58,14 +58,14 @@ energy:
 - люблю когда интерфейсы выглядят как полная хуета✅
 - иногда делаю штуки, иногда ем говно✅
 
-## side_quests
+## cat /usr/share/okakos/info
 
 - роюсь в говне и конфигках квикшелла✅
 - играю в игры на острове эпштейна✅
 - люблю девайсы от googel✅
 - трогаю траву✅
 - 
-## quick_facts
+## cat /usr/share/okakos/facts
 
 - favorite trilogy: Back to the Future
 - laptop: ASUS VivoBook S15
@@ -74,7 +74,7 @@ energy:
 </td>
 <td width="42%" valign="top">
 
-## current_brainrot
+## cat /usr/share/okakos/freegolda
 
 - linux rice and config tweaking  
 - random web / bot / terminal experiments  
@@ -85,13 +85,13 @@ energy:
 </tr>
 </table>
 
-## tech_i_touch
+## cat /usr/share/okakos/huynya
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,git,github&theme=dark" alt="Tech icons" />
 </p>
 
-## github_stuff
+#! cat /usr/share/okakos/okak
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=JettaXP&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&ring=8b5cf6&fire=c084fc&currStreakLabel=c084fc&sideLabels=c084fc&currStreakNum=f5d0fe&sideNums=f5d0fe&dates=8b5cf6" height="165"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jettaxp&theme=2077" height="165"/>
@@ -105,7 +105,7 @@ energy:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JettaXP&bg_color=0d1117&color=c084fc&line=8b5cf6&point=f5d0fe&area=true&hide_border=true" alt="Contribution graph" />
 </div>
 
-## links
+## cat /usr/share/okakos/links
 
 <p align="center">
   <a href="https://github.com/JettaXP"><img src="https://img.shields.io/badge/GitHub-JettaXP-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
