@@ -28,7 +28,7 @@
 <tr>
 <td width="58%" valign="top">
 
-## whoami
+## $EXEC whoami
 
 ```yaml
 name: JettaX
