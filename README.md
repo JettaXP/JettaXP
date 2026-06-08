@@ -32,7 +32,6 @@
 
 ```yaml
 name: JettaX
-status: говно вайбкодер
 os: EndeavourOS
 shell: fish
 location: Dnipro, Ukraine
