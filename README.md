@@ -3,7 +3,7 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=A78BFA&center=true&vCenter=true&width=980&lines=%D0%B3%D0%BE%D0%B2%D0%BD%D0%BE+%D0%B2%D0%B0%D0%B9%D0%B1%D0%BA%D0%BE%D0%B4%D0%B5%D1%80+%D1%81+EndeavourOS;dark+mode+believer;linux+ricing+%2B+late+night+tweaking;google+tech+enjoyer;%D1%82%D0%B0%D0%BF%D0%B0%D1%8E+%D1%85%D0%BE%D0%BC%D1%8F%D0%BA%D0%B0%E2%9C%85;%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E+%D1%81%D0%B8%D0%BA%D1%81+%D1%81%D0%B5%D0%B2%D0%B5%D0%BD%E2%9C%85" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=A78BFA&center=true&vCenter=true&width=980&lines=dark+mode+believer;linux+ricing+%2B+late+night+tweaking;google+tech+enjoyer;%D1%82%D0%B0%D0%BF%D0%B0%D1%8E+%D1%85%D0%BE%D0%BC%D1%8F%D0%BA%D0%B0%E2%9C%85;%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E+%D1%81%D0%B8%D0%BA%D1%81+%D1%81%D0%B5%D0%B2%D0%B5%D0%BD%E2%9C%85" alt="Typing intro" />
 <p>
 <p align="center">
   <a href="https://endeavouros.com/">
