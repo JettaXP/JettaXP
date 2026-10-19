@@ -22,9 +22,8 @@
   "about": {
     "title": "About me",
     "items": [
-      { "icon": "person", "label": "Developer and designer" },
-      { "icon": "code", "label": "Mostly frontend" },
-      { "icon": "palette", "label": "Into Material Design" }
+      { "icon": "person", "label": "dev designer (doin' trash)" },
+      { "icon": "palette", "label": "I love md3" }
     ]
   },
   "stack": {
