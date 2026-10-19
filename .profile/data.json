@@ -1,0 +1,264 @@
+{
+ "key": "e2dab793",
+ "stars": 4,
+ "contributions": 421,
+ "repos": 8,
+ "followers": 7,
+ "languages": [
+  [
+   "HTML",
+   446003
+  ],
+  [
+   "C++",
+   145157
+  ],
+  [
+   "Kotlin",
+   73077
+  ],
+  [
+   "Python",
+   35702
+  ],
+  [
+   "CSS",
+   25374
+  ],
+  [
+   "JavaScript",
+   5412
+  ],
+  [
+   "CMake",
+   3037
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 19,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 12
+ },
+ "pins": [
+  {
+   "name": "OkakOS",
+   "url": "https://github.com/JettaXP/OkakOS",
+   "text": "a custom, ready-to-use arch linux distribution featuring a graphical installer, kde plasma, fish shell, and unique easter eggs.",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Telegram-CLI",
+   "url": "https://github.com/JettaXP/Telegram-CLI",
+   "text": "a full-featured and blazing fast telegram client for linux terminals, built from scratch in c++20 with tdlib and ftxui. features multi-theme support, realtime messaging, full keyboard-driven navigation, and custom user badges via exteraGram api integration.",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "Font-Preview",
+   "url": "https://github.com/JettaXP/Font-Preview",
+   "text": "minimalistic material design 3 android app for previewing google fonts and local font files",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "smiley-bar-widget",
+   "url": "https://github.com/Rom4ik-12/smiley-bar-widget",
+   "text": "Tiny smiley :) in the bar — example module for illogical-impulse-plugins",
+   "fork": false,
+   "stars": 3,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "python-things",
+   "url": "https://github.com/JettaXP/python-things",
+   "text": "крутые пайтон преколы",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "jettaxp.github.io",
+   "url": "https://github.com/JettaXP/jettaxp.github.io",
+   "text": "вц дай денег",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "OkakOS",
+   "url": "https://github.com/JettaXP/OkakOS",
+   "text": "a custom, ready-to-use arch linux distribution featuring a graphical installer, kde plasma, fish shell, and unique easter eggs.",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "JettaXP",
+   "url": "https://github.com/JettaXP/JettaXP",
+   "text": "по названию понятно",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Telegram-CLI",
+   "url": "https://github.com/JettaXP/Telegram-CLI",
+   "text": "a full-featured and blazing fast telegram client for linux terminals, built from scratch in c++20 with tdlib and ftxui. features multi-theme support, realtime messaging, full keyboard-driven navigation, and custom user badges via exteraGram api integration.",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "pix",
+   "url": "https://github.com/JettaXP/pix",
+   "text": "idk",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Font-Preview",
+   "url": "https://github.com/JettaXP/Font-Preview",
+   "text": "minimalistic material design 3 android app for previewing google fonts and local font files",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "jettaxp.github.io",
+   "url": "https://github.com/JettaXP/jettaxp.github.io",
+   "text": "вц дай денег",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "python-things",
+   "url": "https://github.com/JettaXP/python-things",
+   "text": "крутые пайтон преколы",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "plugins-files",
+   "url": "https://github.com/JettaXP/plugins-files",
+   "text": "а э ну эта t.me/jettax_plugins/",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
