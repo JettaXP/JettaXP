@@ -1,62 +1,110 @@
 {
   "version": 1,
   "login": "JettaXP",
-  "seed": "#98B4F6",
+  "seed": "#C1ADD4",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
-  "order": ["hero", "socials", "about", "stack", "projects", "stats", "streak", "wave", "buttons"],
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "stats",
+    "projects",
+    "streak",
+    "wave",
+    "buttons"
+  ],
   "hidden": [],
   "hero": {
-    "greeting": "Hi, I'm",
+    "greeting": "hi, I'm",
     "name": "",
-    "subtitle": "I'm vibecoding AI slop and eating trash",
+    "subtitle": "md3e",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
-      { "icon": "location_on", "label": "Ukraine, Dnipro" },
-      { "icon": "code", "label": "Python" }
+      {
+        "icon": "location_on",
+        "label": "Ukraine, Dnipro"
+      },
+      {
+        "icon": "brand:google",
+        "label": "google fan mb"
+      }
     ]
   },
   "about": {
     "title": "About me",
     "items": [
-      { "icon": "person", "label": "dev designer (doin' trash)" },
-      { "icon": "palette", "label": "I love md3" }
+      {
+        "icon": "person",
+        "label": "allah babah"
+      },
+      {
+        "icon": "brand:android",
+        "label": "im using pixel 7a (android 17 beta)"
+      },
+      {
+        "icon": "desktop_windows",
+        "label": "GTX 950 2GB, i3 10150F, 16GB DDR4 ram"
+      }
     ]
   },
   "stack": {
-    "title": "Tech stack",
+    "title": "babah stack",
     "groups": [
       {
         "title": "Main",
         "items": [
-          { "icon": "brand:python", "label": "Python" }
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:gnubash",
+            "label": "Bash"
+          }
         ]
       },
       {
         "title": "Tools",
         "items": [
-          { "icon": "brand:git", "label": "Git" },
-          { "icon": "brand:figma", "label": "Figma" }
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          }
         ]
       }
     ]
   },
   "projects": {
     "source": "pinned",
-    "repos": [],
-    "overrides": {},
-    "empty": "No description yet.",
+    "repos": [
+      "OkakOS",
+      "Telegram-CLI",
+      "Font-Preview",
+      "smiley-bar-widget"
+    ],
+    "overrides": {
+      "OkakOS": {
+        "text": ""
+      }
+    },
+    "empty": "",
     "fork": "Fork"
   },
   "stats": {
     "title": "GitHub activity",
-    "stars": "Stars earned",
+    "stars": "golda earned",
     "contributions": "Contributions this year",
     "repos": "Public repos",
-    "followers": "Followers",
+    "followers": "",
     "calendar": "Last 21 days",
     "weekdays": "SMTWTFS",
     "languages": "Languages across my repositories",
@@ -70,8 +118,18 @@
   },
   "socials": {
     "items": [
-      { "icon": "brand:telegram", "url": "https://t.me/jettaxp" },
-      { "icon": "brand:discord", "url": "https://discord.com/users/806089380442669116" }
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/jettaxp"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/806089380442669116"
+      },
+      {
+        "icon": "brand:steam",
+        "url": "https://steamcommunity/jettax"
+      }
     ],
     "variant": "chip",
     "fill": "tonal",
@@ -79,8 +137,18 @@
   },
   "buttons": {
     "items": [
-      { "icon": "language", "label": "^^", "url": "https://jettax.xyz", "style": "filled" },
-      { "icon": "book_2", "label": "All repositories", "url": "", "style": "tonal" }
+      {
+        "icon": "language",
+        "label": "верити раздача на спавне 67",
+        "url": "https://jettax.xyz",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/JettaXP?tab=repositories",
+        "style": "tonal"
+      }
     ]
   }
 }
