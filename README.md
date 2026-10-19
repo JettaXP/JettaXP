@@ -1,117 +1,25 @@
-## Hi there 👋 I'm govnoed zhrirtaks
-
 <div align="center">
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m JettaXP"></picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=A78BFA&center=true&vCenter=true&width=980&lines=dark+mode+believer;linux+ricing+%2B+late+night+tweaking;google+tech+enjoyer;%D1%82%D0%B0%D0%BF%D0%B0%D1%8E+%D1%85%D0%BE%D0%BC%D1%8F%D0%BA%D0%B0%E2%9C%85;%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E+%D1%81%D0%B8%D0%BA%D1%81+%D1%81%D0%B5%D0%B2%D0%B5%D0%BD%E2%9C%85" alt="Typing intro" />
-<p>
-<p align="center">
-  <a href="https://endeavouros.com/">
-    <img src="https://img.shields.io/badge/OS-EndeavourOS-6D28D9?style=for-the-badge&logo=arch-linux&logoColor=white" alt="EndeavourOS" />
-  </a>
-  <a href="https://fishshell.com/">
-    <img src="https://img.shields.io/badge/Shell-fish-1F2937?style=for-the-badge&logo=fishshell&logoColor=white" alt="fish shell" />
-  </a>
-  <a href="https://github.com/hyprwm/Hyprland">
-    <img src="https://img.shields.io/badge/WM-Hyprland-00AEEF?style=for-the-badge&logo=wayland&logoColor=white" alt="Hyprland" />
-  <a
-  </a>
-  <a href="https://github.com/end-4/dots-hyprland">
-    <img src="https://img.shields.io/badge/Rice-end--4-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="end-4" />
-  </a>
-</p>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="27.254%" alt=""></picture><a href="https://t.me/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://x.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="10.814%" alt="x"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="27.254%" alt=""></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
+
+<a href="https://github.com/JettaXP/pix"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-pix-dark.svg"><img src="assets/project-pix-light.svg" width="49%" alt="pix"></picture></a>&nbsp;<a href="https://github.com/JettaXP/OkakOS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-okakos-dark.svg"><img src="assets/project-okakos-light.svg" width="49%" alt="OkakOS"></picture></a>
+
+<a href="https://github.com/JettaXP/Telegram-CLI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-telegram-cli-dark.svg"><img src="assets/project-telegram-cli-light.svg" width="49%" alt="Telegram-CLI"></picture></a>&nbsp;<a href="https://github.com/JettaXP/JettaXP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-jettaxp-dark.svg"><img src="assets/project-jettaxp-light.svg" width="49%" alt="JettaXP"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://jettax.xyz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="^^"></picture></a>&nbsp;&nbsp;<a href="https://github.com/JettaXP?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=JettaXP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
 </div>
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-## $EXEC whoami
-
-```yaml
-name: JettaX
-os: EndeavourOS
-shell: fish
-location: Dnipro, Ukraine
-likes:
-  - тапать хомяка
-  - забирать награды с листинга
-  - google tech
-  - linux ricing
-  - cool ui
-  - games
-  - open source
-energy:
-  - tweaking configs at 3 am
-  - making random stuff
-  - breaking things and fixing them later
-```
-
-## cat /usr/share/okakos/trash
-
-- сижу на EndeavourOS и ковыряюсь в говне✅
-- люблю терминал✅
-- могу полдня настраивать что-то ради одного красивого скрина✅
-- люблю когда интерфейсы выглядят как полная хуета✅
-- иногда делаю штуки, иногда ем говно✅
-
-## cat /usr/share/okakos/info
-
-- роюсь в говне и конфигках квикшелла✅
-- играю в игры на острове эпштейна✅
-- люблю девайсы от googel✅
-- трогаю траву✅
-- 
-## cat /usr/share/okakos/facts
-
-- favorite trilogy: Back to the Future
-- laptop: ASUS VivoBook S15
-- pc: i3-10105F / 16GB DDR4 / GTX 950 2GB
-
-</td>
-<td width="42%" valign="top">
-
-## cat /usr/share/okakos/freegolda
-
-- linux rice and config tweaking  
-- random web / bot / terminal experiments  
-- dark mode everything  
-- trying cool tools for no reason
-
-</td>
-</tr>
-</table>
-
-## cat /usr/share/okakos/huynya
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github&theme=dark" alt="Tech icons" />
-</p>
-
-#! cat /usr/share/okakos/okak
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JettaXP&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&ring=8b5cf6&fire=c084fc&currStreakLabel=c084fc&sideLabels=c084fc&currStreakNum=f5d0fe&sideNums=f5d0fe&dates=8b5cf6" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jettaxp&theme=2077" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jettaxp&theme=2077"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JettaXP&bg_color=0d1117&color=c084fc&line=8b5cf6&point=f5d0fe&area=true&hide_border=true" alt="Contribution graph" />
-</div>
-
-## cat /usr/share/okakos/links
-
-<p align="center">
-  <a href="https://github.com/JettaXP"><img src="https://img.shields.io/badge/GitHub-JettaXP-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://steamcommunity.com/id/jettaxp/"><img src="https://img.shields.io/badge/Steam-jettaxp-0B1B2B?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
-  <a href="https://t.me/jettaxp"><img src="https://img.shields.io/badge/Telegram-@jettaxp-1D9BF0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-</p>
-
-<p align="center">
-  discord: <b>jettax03</b>
-</p>
