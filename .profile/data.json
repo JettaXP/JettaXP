@@ -1,7 +1,7 @@
 {
- "key": "4279106d",
+ "key": "4d3a15f6",
  "stars": 4,
- "contributions": 424,
+ "contributions": 425,
  "repos": 8,
  "followers": 7,
  "languages": [
@@ -18,12 +18,12 @@
    73077
   ],
   [
-   "Python",
-   35702
-  ],
-  [
    "CSS",
    25374
+  ],
+  [
+   "Python",
+   12753
   ],
   [
    "JavaScript",
@@ -118,17 +118,25 @@
    {
     "c": 5,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
     "today": true
    },
-   null,
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 12
  },
  "pins": [
@@ -138,7 +146,7 @@
    "text": "a custom, ready-to-use arch linux distribution featuring a graphical installer, kde plasma, fish shell, and unique easter eggs.",
    "fork": false,
    "stars": 1,
-   "language": "Python",
+   "language": "Shell",
    "topics": []
   },
   {
@@ -194,7 +202,7 @@
    "text": "a custom, ready-to-use arch linux distribution featuring a graphical installer, kde plasma, fish shell, and unique easter eggs.",
    "fork": false,
    "stars": 1,
-   "language": "Python",
+   "language": "Shell",
    "topics": []
   },
   {
