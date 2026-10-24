@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "JettaXP",
-  "seed": "#C1ADD4",
+  "seed": "#C2AED5",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
@@ -11,15 +11,15 @@
     "socials",
     "about",
     "stack",
-    "stats",
     "projects",
+    "stats",
     "streak",
     "wave",
     "buttons"
   ],
   "hidden": [],
   "hero": {
-    "greeting": "hi, I'm",
+    "greeting": "Hi, I'm",
     "name": "",
     "subtitle": "md3e",
     "typing": true,
@@ -39,12 +39,8 @@
     "title": "About me",
     "items": [
       {
-        "icon": "person",
-        "label": "allah babah"
-      },
-      {
         "icon": "brand:android",
-        "label": "im using pixel 7a (android 17 beta)"
+        "label": "pixel 7a (android 17 beta)"
       },
       {
         "icon": "desktop_windows",
@@ -84,19 +80,16 @@
     ]
   },
   "projects": {
-    "source": "pinned",
+    "source": "manual",
     "repos": [
       "OkakOS",
       "Telegram-CLI",
       "Font-Preview",
-      "smiley-bar-widget"
+      "smiley-bar-widget",
+      "pixelGram"
     ],
-    "overrides": {
-      "OkakOS": {
-        "text": ""
-      }
-    },
-    "empty": "",
+    "overrides": {},
+    "empty": "No description yet.",
     "fork": "Fork"
   },
   "stats": {
@@ -104,7 +97,7 @@
     "stars": "golda earned",
     "contributions": "Contributions this year",
     "repos": "Public repos",
-    "followers": "",
+    "followers": "coach brothers",
     "calendar": "Last 21 days",
     "weekdays": "SMTWTFS",
     "languages": "Languages across my repositories",
@@ -128,11 +121,11 @@
       },
       {
         "icon": "brand:steam",
-        "url": "https://steamcommunity/jettax"
+        "url": "https://steamcommunity.com/id/jettax"
       }
     ],
     "variant": "chip",
-    "fill": "tonal",
+    "fill": "brand",
     "card": true
   },
   "buttons": {
@@ -140,7 +133,7 @@
       {
         "icon": "language",
         "label": "верити раздача на спавне 67",
-        "url": "https://jettax.xyz",
+        "url": "https://jettax.xyz/",
         "style": "filled"
       },
       {
@@ -149,6 +142,7 @@
         "url": "https://github.com/JettaXP?tab=repositories",
         "style": "tonal"
       }
-    ]
+    ],
+    "card": true
   }
 }
