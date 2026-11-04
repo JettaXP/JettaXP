@@ -1,13 +1,13 @@
 {
- "key": "e1c3833c",
+ "key": "7e4c863e",
  "stars": 13,
- "contributions": 691,
+ "contributions": 705,
  "repos": 9,
  "followers": 7,
  "languages": [
   [
    "Kotlin",
-   2955290
+   3055483
   ],
   [
    "HTML",
@@ -126,7 +126,7 @@
     "today": false
    },
    {
-    "c": 13,
+    "c": 27,
     "day": 4,
     "today": true
    },
@@ -143,7 +143,7 @@
   {
    "name": "pixelGram",
    "url": "https://github.com/JettaXP/pixelGram",
-   "text": "Telegram desktop client in Kotlin with Material 3 Expressive design. Windows and Linux (AppImage, Arch)",
+   "text": "Telegram desktop  client in Kotlin with Material 3 Expressive design. (TDLib)",
    "fork": false,
    "stars": 10,
    "language": "Kotlin",
@@ -196,7 +196,7 @@
   {
    "name": "pixelGram",
    "url": "https://github.com/JettaXP/pixelGram",
-   "text": "Telegram desktop client in Kotlin with Material 3 Expressive design. Windows and Linux (AppImage, Arch)",
+   "text": "Telegram desktop  client in Kotlin with Material 3 Expressive design. (TDLib)",
    "fork": false,
    "stars": 10,
    "language": "Kotlin",
