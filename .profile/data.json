@@ -1,13 +1,13 @@
 {
- "key": "d803e7f1",
+ "key": "a04a47a8",
  "stars": 16,
- "contributions": 827,
- "repos": 9,
+ "contributions": 832,
+ "repos": 10,
  "followers": 7,
  "languages": [
   [
    "Kotlin",
-   3339263
+   3340354
   ],
   [
    "HTML",
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 46,
+    "c": 51,
     "day": 6,
     "today": true
    },
@@ -164,12 +164,12 @@
    ]
   },
   {
-   "name": "OkakOS",
-   "url": "https://github.com/JettaXP/OkakOS",
-   "text": "a custom, ready-to-use arch linux distribution featuring a graphical installer, kde plasma, fish shell, and unique easter eggs.",
-   "fork": false,
-   "stars": 1,
-   "language": "Shell",
+   "name": "pixelGram-android",
+   "url": "https://github.com/JettaXP/pixelGram-android",
+   "text": "website not ready yet,",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
    "topics": []
   },
   {
@@ -179,6 +179,15 @@
    "fork": false,
    "stars": 1,
    "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "OkakOS",
+   "url": "https://github.com/JettaXP/OkakOS",
+   "text": "a custom, ready-to-use arch linux distribution featuring a graphical installer, kde plasma, fish shell, and unique easter eggs.",
+   "fork": false,
+   "stars": 1,
+   "language": "Shell",
    "topics": []
   },
   {
@@ -241,6 +250,15 @@
    "fork": false,
    "stars": 1,
    "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "pixelGram-android",
+   "url": "https://github.com/JettaXP/pixelGram-android",
+   "text": "website not ready yet,",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
    "topics": []
   },
   {
