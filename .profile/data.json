@@ -1,13 +1,17 @@
 {
- "key": "479710d4",
+ "key": "ab12c29f",
  "stars": 17,
- "contributions": 867,
+ "contributions": 896,
  "repos": 11,
  "followers": 7,
  "languages": [
   [
+   "Java",
+   5435843
+  ],
+  [
    "Kotlin",
-   3468033
+   3859594
   ],
   [
    "HTML",
@@ -23,55 +27,14 @@
   ],
   [
    "Python",
-   48848
+   84933
   ],
   [
    "JavaScript",
    23652
-  ],
-  [
-   "CMake",
-   3037
   ]
  ],
  "days": [
-  [
-   {
-    "c": 0,
-    "day": 18,
-    "today": false
-   },
-   {
-    "c": 5,
-    "day": 19,
-    "today": false
-   },
-   {
-    "c": 1,
-    "day": 20,
-    "today": false
-   },
-   {
-    "c": 2,
-    "day": 21,
-    "today": false
-   },
-   {
-    "c": 1,
-    "day": 22,
-    "today": false
-   },
-   {
-    "c": 5,
-    "day": 23,
-    "today": false
-   },
-   {
-    "c": 3,
-    "day": 24,
-    "today": false
-   }
-  ],
   [
    {
     "c": 42,
@@ -136,15 +99,28 @@
     "today": false
    },
    {
-    "c": 51,
+    "c": 50,
     "day": 6,
     "today": false
    },
    {
-    "c": 35,
+    "c": 65,
     "day": 7,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
@@ -168,11 +144,38 @@
    ]
   },
   {
+   "name": "steamd",
+   "url": "https://github.com/JettaXP/steamd",
+   "text": "Material 3 / Material You theme for the Steam Android app. An Android app that patches Steam on your phone: wallpaper colours, Google Sans, Material icons, rounded UI and a restyled store, all signed and installed on the device.",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": [
+    "steam",
+    "android",
+    "hermes",
+    "jetpack-compose",
+    "material-design-3",
+    "material-you",
+    "react-native",
+    "theme"
+   ]
+  },
+  {
    "name": "pixelGram-android",
    "url": "https://github.com/JettaXP/pixelGram-android",
-   "text": "website not ready yet,",
-   "fork": true,
+   "text": "",
+   "fork": false,
    "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Font-Preview",
+   "url": "https://github.com/JettaXP/Font-Preview",
+   "text": "minimalistic material design 3 android app for previewing google fonts and local font files",
+   "fork": false,
+   "stars": 2,
    "language": "Kotlin",
    "topics": []
   },
@@ -192,24 +195,6 @@
    "fork": false,
    "stars": 1,
    "language": "Shell",
-   "topics": []
-  },
-  {
-   "name": "Font-Preview",
-   "url": "https://github.com/JettaXP/Font-Preview",
-   "text": "minimalistic material design 3 android app for previewing google fonts and local font files",
-   "fork": false,
-   "stars": 2,
-   "language": "Kotlin",
-   "topics": []
-  },
-  {
-   "name": "smiley-bar-widget",
-   "url": "https://github.com/Rom4ik-12/smiley-bar-widget",
-   "text": "Tiny smiley :) in the bar — example module for illogical-impulse-plugins",
-   "fork": false,
-   "stars": 3,
-   "language": "QML",
    "topics": []
   }
  ],
@@ -257,22 +242,31 @@
    "topics": []
   },
   {
-   "name": "steamd",
-   "url": "https://github.com/JettaXP/steamd",
+   "name": "pixelGram-android",
+   "url": "https://github.com/JettaXP/pixelGram-android",
    "text": "",
    "fork": false,
    "stars": 0,
-   "language": "Kotlin",
+   "language": "Java",
    "topics": []
   },
   {
-   "name": "pixelGram-android",
-   "url": "https://github.com/JettaXP/pixelGram-android",
-   "text": "website not ready yet,",
-   "fork": true,
+   "name": "steamd",
+   "url": "https://github.com/JettaXP/steamd",
+   "text": "Material 3 / Material You theme for the Steam Android app. An Android app that patches Steam on your phone: wallpaper colours, Google Sans, Material icons, rounded UI and a restyled store, all signed and installed on the device.",
+   "fork": false,
    "stars": 0,
    "language": "Kotlin",
-   "topics": []
+   "topics": [
+    "steam",
+    "android",
+    "hermes",
+    "jetpack-compose",
+    "material-design-3",
+    "material-you",
+    "react-native",
+    "theme"
+   ]
   },
   {
    "name": "jettaxp.github.io",
