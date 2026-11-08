@@ -1,7 +1,7 @@
 {
- "key": "d7aa1675",
- "stars": 18,
- "contributions": 907,
+ "key": "80bc2f05",
+ "stars": 19,
+ "contributions": 914,
  "repos": 11,
  "followers": 7,
  "languages": [
@@ -11,7 +11,7 @@
   ],
   [
    "Kotlin",
-   3893368
+   3903661
   ],
   [
    "HTML",
@@ -23,11 +23,11 @@
   ],
   [
    "Python",
-   102891
+   121575
   ],
   [
    "CSS",
-   93104
+   100081
   ],
   [
    "JavaScript",
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 11,
+    "c": 18,
     "day": 8,
     "today": true
    },
@@ -148,7 +148,7 @@
    "url": "https://github.com/JettaXP/steamd",
    "text": "Material 3 / Material You theme for the Steam Android app. An Android app that patches Steam on your phone: wallpaper colours, Google Sans, Material icons, rounded UI and a restyled store, all signed and installed on the device.",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Kotlin",
    "topics": [
     "steam",
@@ -224,6 +224,24 @@
    "topics": []
   },
   {
+   "name": "steamd",
+   "url": "https://github.com/JettaXP/steamd",
+   "text": "Material 3 / Material You theme for the Steam Android app. An Android app that patches Steam on your phone: wallpaper colours, Google Sans, Material icons, rounded UI and a restyled store, all signed and installed on the device.",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": [
+    "steam",
+    "android",
+    "hermes",
+    "jetpack-compose",
+    "material-design-3",
+    "material-you",
+    "react-native",
+    "theme"
+   ]
+  },
+  {
    "name": "OkakOS",
    "url": "https://github.com/JettaXP/OkakOS",
    "text": "a custom, ready-to-use arch linux distribution featuring a graphical installer, kde plasma, fish shell, and unique easter eggs.",
@@ -249,24 +267,6 @@
    "stars": 0,
    "language": "Java",
    "topics": []
-  },
-  {
-   "name": "steamd",
-   "url": "https://github.com/JettaXP/steamd",
-   "text": "Material 3 / Material You theme for the Steam Android app. An Android app that patches Steam on your phone: wallpaper colours, Google Sans, Material icons, rounded UI and a restyled store, all signed and installed on the device.",
-   "fork": false,
-   "stars": 0,
-   "language": "Kotlin",
-   "topics": [
-    "steam",
-    "android",
-    "hermes",
-    "jetpack-compose",
-    "material-design-3",
-    "material-you",
-    "react-native",
-    "theme"
-   ]
   },
   {
    "name": "jettaxp.github.io",
