@@ -1,7 +1,7 @@
 {
- "key": "80bc2f05",
+ "key": "872447af",
  "stars": 19,
- "contributions": 914,
+ "contributions": 916,
  "repos": 11,
  "followers": 7,
  "languages": [
@@ -11,7 +11,7 @@
   ],
   [
    "Kotlin",
-   3903661
+   3909056
   ],
   [
    "HTML",
@@ -23,7 +23,7 @@
   ],
   [
    "Python",
-   121575
+   122799
   ],
   [
    "CSS",
@@ -111,11 +111,15 @@
   ],
   [
    {
-    "c": 18,
+    "c": 20,
     "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
     "today": true
    },
-   null,
    null,
    null,
    null,
