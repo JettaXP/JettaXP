@@ -1,13 +1,13 @@
 {
- "key": "4b281ed7",
- "stars": 21,
- "contributions": 1028,
+ "key": "ce1b2c4b",
+ "stars": 24,
+ "contributions": 1032,
  "repos": 11,
  "followers": 7,
  "languages": [
   [
    "Kotlin",
-   4933896
+   5010037
   ],
   [
    "HTML",
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 5,
+    "c": 9,
     "day": 15,
     "today": true
    },
@@ -148,7 +148,7 @@
    "url": "https://github.com/JettaXP/steamd",
    "text": "Material 3 / Material You theme for the Steam Android app. An Android app that patches Steam on your phone: wallpaper colours, Google Sans, Material icons, rounded UI and a restyled store, all signed and installed on the device.",
    "fork": false,
-   "stars": 1,
+   "stars": 4,
    "language": "Kotlin",
    "topics": [
     "steam",
@@ -215,20 +215,11 @@
    ]
   },
   {
-   "name": "Font-Preview",
-   "url": "https://github.com/JettaXP/Font-Preview",
-   "text": "minimalistic material design 3 android app for previewing google fonts and local font files",
-   "fork": false,
-   "stars": 2,
-   "language": "Kotlin",
-   "topics": []
-  },
-  {
    "name": "steamd",
    "url": "https://github.com/JettaXP/steamd",
    "text": "Material 3 / Material You theme for the Steam Android app. An Android app that patches Steam on your phone: wallpaper colours, Google Sans, Material icons, rounded UI and a restyled store, all signed and installed on the device.",
    "fork": false,
-   "stars": 1,
+   "stars": 4,
    "language": "Kotlin",
    "topics": [
     "steam",
@@ -240,6 +231,15 @@
     "react-native",
     "theme"
    ]
+  },
+  {
+   "name": "Font-Preview",
+   "url": "https://github.com/JettaXP/Font-Preview",
+   "text": "minimalistic material design 3 android app for previewing google fonts and local font files",
+   "fork": false,
+   "stars": 2,
+   "language": "Kotlin",
+   "topics": []
   },
   {
    "name": "OkakOS",
