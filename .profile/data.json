@@ -1,13 +1,13 @@
 {
- "key": "4f78d4f5",
- "stars": 30,
- "contributions": 1073,
+ "key": "1c144edc",
+ "stars": 34,
+ "contributions": 1084,
  "repos": 11,
  "followers": 8,
  "languages": [
   [
    "Kotlin",
-   5514992
+   5704035
   ],
   [
    "HTML",
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 1,
+    "c": 12,
     "day": 22,
     "today": true
    },
@@ -133,7 +133,7 @@
    "url": "https://github.com/JettaXP/pixelGram",
    "text": "Telegram desktop  client in Kotlin with Material 3 Expressive design. (TDLib)",
    "fork": false,
-   "stars": 20,
+   "stars": 22,
    "language": "Kotlin",
    "topics": [
     "desktop",
@@ -166,7 +166,7 @@
    "url": "https://github.com/JettaXP/pixelGram-android",
    "text": "",
    "fork": false,
-   "stars": 2,
+   "stars": 4,
    "language": "Kotlin",
    "topics": []
   },
@@ -204,7 +204,7 @@
    "url": "https://github.com/JettaXP/pixelGram",
    "text": "Telegram desktop  client in Kotlin with Material 3 Expressive design. (TDLib)",
    "fork": false,
-   "stars": 20,
+   "stars": 22,
    "language": "Kotlin",
    "topics": [
     "desktop",
@@ -213,6 +213,15 @@
     "md3e",
     "telegram"
    ]
+  },
+  {
+   "name": "pixelGram-android",
+   "url": "https://github.com/JettaXP/pixelGram-android",
+   "text": "",
+   "fork": false,
+   "stars": 4,
+   "language": "Kotlin",
+   "topics": []
   },
   {
    "name": "steamd",
@@ -231,15 +240,6 @@
     "react-native",
     "theme"
    ]
-  },
-  {
-   "name": "pixelGram-android",
-   "url": "https://github.com/JettaXP/pixelGram-android",
-   "text": "",
-   "fork": false,
-   "stars": 2,
-   "language": "Kotlin",
-   "topics": []
   },
   {
    "name": "Font-Preview",
