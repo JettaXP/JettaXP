@@ -1,6 +1,6 @@
 {
- "key": "a6de1bfc",
- "stars": 28,
+ "key": "4f78d4f5",
+ "stars": 30,
  "contributions": 1073,
  "repos": 11,
  "followers": 8,
@@ -166,7 +166,7 @@
    "url": "https://github.com/JettaXP/pixelGram-android",
    "text": "",
    "fork": false,
-   "stars": 0,
+   "stars": 2,
    "language": "Kotlin",
    "topics": []
   },
@@ -233,6 +233,15 @@
    ]
   },
   {
+   "name": "pixelGram-android",
+   "url": "https://github.com/JettaXP/pixelGram-android",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
    "name": "Font-Preview",
    "url": "https://github.com/JettaXP/Font-Preview",
    "text": "minimalistic material design 3 android app for previewing google fonts and local font files",
@@ -257,15 +266,6 @@
    "fork": false,
    "stars": 1,
    "language": "C++",
-   "topics": []
-  },
-  {
-   "name": "pixelGram-android",
-   "url": "https://github.com/JettaXP/pixelGram-android",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Kotlin",
    "topics": []
   },
   {
