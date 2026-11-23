@@ -1,13 +1,13 @@
 {
- "key": "e4f6c63d",
- "stars": 40,
- "contributions": 1108,
+ "key": "c90aba55",
+ "stars": 43,
+ "contributions": 1124,
  "repos": 11,
  "followers": 8,
  "languages": [
   [
    "Kotlin",
-   5749987
+   5802692
   ],
   [
    "HTML",
@@ -116,7 +116,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 17,
     "day": 23,
     "today": true
    },
@@ -137,7 +137,7 @@
    "url": "https://github.com/JettaXP/pixelGram",
    "text": "Telegram desktop  client in Kotlin with Material 3 Expressive design. (TDLib)",
    "fork": false,
-   "stars": 23,
+   "stars": 24,
    "language": "Kotlin",
    "topics": [
     "desktop",
@@ -145,6 +145,20 @@
     "md3",
     "md3e",
     "telegram"
+   ]
+  },
+  {
+   "name": "pixelGram-android",
+   "url": "https://github.com/JettaXP/pixelGram-android",
+   "text": "A Telegram client for Android written from scratch in Kotlin and Jetpack Compose with Material 3 Expressive, built on TDLib.",
+   "fork": false,
+   "stars": 11,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "jetpack-compose",
+    "kotlin",
+    "md3e"
    ]
   },
   {
@@ -164,15 +178,6 @@
     "react-native",
     "theme"
    ]
-  },
-  {
-   "name": "pixelGram-android",
-   "url": "https://github.com/JettaXP/pixelGram-android",
-   "text": "",
-   "fork": false,
-   "stars": 9,
-   "language": "Kotlin",
-   "topics": []
   },
   {
    "name": "Font-Preview",
@@ -208,7 +213,7 @@
    "url": "https://github.com/JettaXP/pixelGram",
    "text": "Telegram desktop  client in Kotlin with Material 3 Expressive design. (TDLib)",
    "fork": false,
-   "stars": 23,
+   "stars": 24,
    "language": "Kotlin",
    "topics": [
     "desktop",
@@ -221,11 +226,16 @@
   {
    "name": "pixelGram-android",
    "url": "https://github.com/JettaXP/pixelGram-android",
-   "text": "",
+   "text": "A Telegram client for Android written from scratch in Kotlin and Jetpack Compose with Material 3 Expressive, built on TDLib.",
    "fork": false,
-   "stars": 9,
+   "stars": 11,
    "language": "Kotlin",
-   "topics": []
+   "topics": [
+    "android",
+    "jetpack-compose",
+    "kotlin",
+    "md3e"
+   ]
   },
   {
    "name": "steamd",
