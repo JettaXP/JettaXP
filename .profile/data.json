@@ -1,5 +1,5 @@
 {
- "key": "beb25dda",
+ "key": "56f22bb9",
  "stars": 46,
  "contributions": 1158,
  "repos": 11,
@@ -123,9 +123,13 @@
    {
     "c": 18,
     "day": 24,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 25,
     "today": true
    },
-   null,
    null,
    null,
    null
