@@ -1,21 +1,25 @@
 {
- "key": "d9395aad",
- "stars": 49,
- "contributions": 1167,
- "repos": 11,
+ "key": "886fa2e3",
+ "stars": 50,
+ "contributions": 1175,
+ "repos": 12,
  "followers": 8,
  "languages": [
   [
    "Kotlin",
-   5915178
+   6275826
+  ],
+  [
+   "Java",
+   2418067
+  ],
+  [
+   "C++",
+   1538287
   ],
   [
    "HTML",
    517845
-  ],
-  [
-   "C++",
-   145157
   ],
   [
    "Python",
@@ -27,11 +31,7 @@
   ],
   [
    "JavaScript",
-   26984
-  ],
-  [
-   "CMake",
-   3037
+   27547
   ]
  ],
  "days": [
@@ -131,7 +131,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 8,
     "day": 26,
     "today": true
    },
@@ -140,7 +140,7 @@
   ]
  ],
  "streak": {
-  "current": 5,
+  "current": 6,
   "longest": 13
  },
  "pins": [
@@ -149,7 +149,7 @@
    "url": "https://github.com/JettaXP/pixelGram",
    "text": "Telegram desktop  client in Kotlin with Material 3 Expressive design. (TDLib)",
    "fork": false,
-   "stars": 26,
+   "stars": 27,
    "language": "Kotlin",
    "topics": [
     "desktop",
@@ -225,7 +225,7 @@
    "url": "https://github.com/JettaXP/pixelGram",
    "text": "Telegram desktop  client in Kotlin with Material 3 Expressive design. (TDLib)",
    "fork": false,
-   "stars": 26,
+   "stars": 27,
    "language": "Kotlin",
    "topics": [
     "desktop",
@@ -292,6 +292,15 @@
    "fork": false,
    "stars": 1,
    "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "CloseBoard",
+   "url": "https://github.com/JettaXP/CloseBoard",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
    "topics": []
   },
   {
