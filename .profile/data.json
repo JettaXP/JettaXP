@@ -1,37 +1,37 @@
 {
- "key": "2721a063",
+ "key": "b02aab31",
  "stars": 51,
- "contributions": 1178,
- "repos": 12,
+ "contributions": 1203,
+ "repos": 13,
  "followers": 8,
  "languages": [
   [
    "Kotlin",
-   6275826
+   23443766
   ],
   [
    "Java",
-   2418067
+   2459028
   ],
   [
    "C++",
-   1538287
+   1551347
   ],
   [
    "HTML",
-   517845
+   605625
   ],
   [
    "Python",
-   136646
+   464464
   ],
   [
    "CSS",
    100841
   ],
   [
-   "JavaScript",
-   27547
+   "Swift",
+   30414
   ]
  ],
  "days": [
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 28,
     "day": 27,
     "today": true
    },
@@ -296,6 +296,15 @@
    "fork": false,
    "stars": 1,
    "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "pixelist",
+   "url": "https://github.com/JettaXP/pixelist",
+   "text": "ам ам ээ ну метролист пиксельплеер телеграм скочать",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
    "topics": []
   },
   {
