@@ -1,6 +1,6 @@
 {
- "key": "47381c96",
- "stars": 51,
+ "key": "d5e0ac94",
+ "stars": 53,
  "contributions": 1203,
  "repos": 13,
  "followers": 8,
@@ -172,7 +172,7 @@
    "url": "https://github.com/JettaXP/pixelGram-android",
    "text": "A Telegram client for Android written from scratch in Kotlin and Jetpack Compose with Material 3 Expressive, built on TDLib.",
    "fork": false,
-   "stars": 16,
+   "stars": 18,
    "language": "Kotlin",
    "topics": [
     "android",
@@ -248,7 +248,7 @@
    "url": "https://github.com/JettaXP/pixelGram-android",
    "text": "A Telegram client for Android written from scratch in Kotlin and Jetpack Compose with Material 3 Expressive, built on TDLib.",
    "fork": false,
-   "stars": 16,
+   "stars": 18,
    "language": "Kotlin",
    "topics": [
     "android",
