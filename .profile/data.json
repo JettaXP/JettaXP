@@ -1,5 +1,5 @@
 {
- "key": "b02aab31",
+ "key": "47381c96",
  "stars": 51,
  "contributions": 1203,
  "repos": 13,
@@ -7,7 +7,7 @@
  "languages": [
   [
    "Kotlin",
-   23443766
+   23445762
   ],
   [
    "Java",
@@ -138,9 +138,13 @@
    {
     "c": 28,
     "day": 27,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 28,
+    "today": true
+   }
   ]
  ],
  "streak": {
